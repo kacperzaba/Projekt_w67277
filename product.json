@@ -1,0 +1,206 @@
+[
+  {
+    "FoodName": "Jajecznica",
+    "Temperature": 21,
+    "Time": 370,
+    "MicrowaveMode": 3
+  },
+  {
+    "FoodName": "Makaron",
+    "Temperature": 200,
+    "Time": 100,
+    "MicrowaveMode": 3
+  },
+  {
+    "FoodName": "Kurczak",
+    "Temperature": 220,
+    "Time": 150,
+    "MicrowaveMode": 5
+  },
+  {
+    "FoodName": "Schabowy",
+    "Temperature": 180,
+    "Time": 10,
+    "MicrowaveMode": 4
+  },
+  {
+    "FoodName": "Ziemniaki",
+    "Temperature": 200,
+    "Time": 20,
+    "MicrowaveMode": 3
+  },
+  {
+    "FoodName": "Ryż",
+    "Temperature": 190,
+    "Time": 120,
+    "MicrowaveMode": 3
+  },
+  {
+    "FoodName": "Warzywa",
+    "Temperature": 180,
+    "Time": 80,
+    "MicrowaveMode": 2
+  },
+  {
+    "FoodName": "Lasagne",
+    "Temperature": 210,
+    "Time": 250,
+    "MicrowaveMode": 2
+  },
+  {
+    "FoodName": "Owoce",
+    "Temperature": 160,
+    "Time": 50,
+    "MicrowaveMode": 3
+  },
+  {
+    "FoodName": "Kotlet",
+    "Temperature": 190,
+    "Time": 120,
+    "MicrowaveMode": 4
+  },
+  {
+    "FoodName": "Pierogi",
+    "Temperature": 200,
+    "Time": 150,
+    "MicrowaveMode": 2
+  },
+  {
+    "FoodName": "Krewetki",
+    "Temperature": 220,
+    "Time": 180,
+    "MicrowaveMode": 2
+  },
+  {
+    "FoodName": "Grzanki",
+    "Temperature": 180,
+    "Time": 80,
+    "MicrowaveMode": 5
+  },
+  {
+    "FoodName": "Sałatka",
+    "Temperature": 180,
+    "Time": 10,
+    "MicrowaveMode": 1
+  },
+  {
+    "FoodName": "Zupa pomidorowa",
+    "Temperature": 190,
+    "Time": 120,
+    "MicrowaveMode": 3
+  },
+  {
+    "FoodName": "Kawa",
+    "Temperature": 170,
+    "Time": 50,
+    "MicrowaveMode": 3
+  },
+  {
+    "FoodName": "Herbata",
+    "Temperature": 160,
+    "Time": 40,
+    "MicrowaveMode": 3
+  },
+  {
+    "FoodName": "Omlet",
+    "Temperature": 180,
+    "Time": 80,
+    "MicrowaveMode": 4
+  },
+  {
+    "FoodName": "Pizza",
+    "Temperature": 220,
+    "Time": 180,
+    "MicrowaveMode": 1
+  },
+  {
+    "FoodName": "Bułka",
+    "Temperature": 200,
+    "Time": 15,
+    "MicrowaveMode": 2
+  },
+  {
+    "FoodName": "Krem czekoladowy",
+    "Temperature": 190,
+    "Time": 120,
+    "MicrowaveMode": 3
+  },
+  {
+    "FoodName": "Makaron z sosem",
+    "Temperature": 210,
+    "Time": 200,
+    "MicrowaveMode": 3
+  },
+  {
+    "FoodName": "Tosty",
+    "Temperature": 180,
+    "Time": 80,
+    "MicrowaveMode": 5
+  },
+  {
+    "FoodName": "Zupa krem z brokułów",
+    "Temperature": 200,
+    "Time": 150,
+    "MicrowaveMode": 1
+  },
+  {
+    "FoodName": "Kotlet mielony",
+    "Temperature": 220,
+    "Time": 180,
+    "MicrowaveMode": 4
+  },
+  {
+    "FoodName": "Rosół",
+    "Temperature": 190,
+    "Time": 120,
+    "MicrowaveMode": 3
+  },
+  {
+    "FoodName": "Kanapki",
+    "Temperature": 180,
+    "Time": 80,
+    "MicrowaveMode": 2
+  },
+  {
+    "FoodName": "Sos pomidorowy",
+    "Temperature": 180,
+    "Time": 100,
+    "MicrowaveMode": 3
+  },
+  {
+    "FoodName": "Zupa ogórkowa",
+    "Temperature": 200,
+    "Time": 150,
+    "MicrowaveMode": 3
+  },
+  {
+    "FoodName": "Zupa jarzynowa",
+    "Temperature": 190,
+    "Time": 120,
+    "MicrowaveMode": 3
+  },
+  {
+    "FoodName": "Zupa serowa",
+    "Temperature": 180,
+    "Time": 100,
+    "MicrowaveMode": 3
+  },
+  {
+    "FoodName": "Zapiekanka",
+    "Temperature": 200,
+    "Time": 150,
+    "MicrowaveMode": 2
+  },
+  {
+    "FoodName": "Warzywa Mrożone",
+    "Temperature": 40,
+    "Time": 600,
+    "MicrowaveMode": 1
+  },
+  {
+    "FoodName": "przykladowa potrawa",
+    "Temperature": 100,
+    "Time": 600,
+    "MicrowaveMode": 2
+  }
+]
